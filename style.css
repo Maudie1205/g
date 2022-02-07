@@ -1,0 +1,15 @@
+.small_note {
+    font-size: 20px;
+    border-radius: 20px;
+}
+.note {
+    color: black;
+}
+#copy_right_footer {
+    background-color: gray;
+    color: black;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
